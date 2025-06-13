@@ -3,6 +3,7 @@ import time
 import json
 import threading
 
+#global heron-python
 class LambdaContext:
     def __init__(self, function_name="MyLambda", memory_limit=128, timeout=3):
         self.function_name = function_name
