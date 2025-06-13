@@ -6,7 +6,7 @@ import json
 import zlib
 from pathlib import Path
 
-# Directory setup
+# Directory setup - venkatesh
 LOCAL_FS_PATH = "local_files/"
 LOCAL_FS_PATH1 = "local_files1/"
 S3_SIM_PATH = "s3_simulated/"
